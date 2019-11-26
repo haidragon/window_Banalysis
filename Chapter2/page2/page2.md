@@ -59,8 +59,6 @@ int main(int argc, WCHAR** argv)
 }
 
 ```
-
-
- 
+![avatar](https://github.com/haidragon/window_Banalysis/blob/master/Chapter2/page2/images/2.png)
 
 
