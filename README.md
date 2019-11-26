@@ -7,6 +7,7 @@
 * 第五节 定位mfc控件类函数
 * 第六节 mfc控件插桩
 * 第七节 frida windows使用
+* 第八节 mfc Trace
 # mac os x篇
 # QT篇
 
